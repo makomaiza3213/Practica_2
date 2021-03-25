@@ -9,3 +9,5 @@ texto2 = texto.upper()
 cant = texto2.count(palabra)
 
 print(cant)
+
+print("Hello world")
